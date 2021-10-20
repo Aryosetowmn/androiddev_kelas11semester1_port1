@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+
+    <!-- Simple text Strings -->
+
+    <string name="lorem_text3">Sololearn and Progate Certification</string>
+    <string name="lorem_text">2nd place scout competition, Semarang city </string>
+    <string name="job_name">About Me</string>
+    <string name="lorem_text2">1st place in the Koran Tartil Competition, Semarang City\n\nParticipate in badminton competition, Alazhar all over Indonesia\n\n1st place in the Koran Tartil Competition, Semarang City\n\nparticipate in poster design competition, al-Azhar all over Indonesia\n\n1st place in the Koran Tartil Competition, Semarang City </string>
+    <string name="name">Aryoseto Wahyatma\nManggala Nititiyoso</string>
+    <string name="current_job_post">About me</string>
+    <string name="diploma">Computer Science Diploma</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
