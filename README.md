@@ -1,4 +1,4 @@
-# Portfolio App (Java) - Android Educational Project
+# Portfolio App (Java)
 
 Oct 20, 2021 | A solo Android project I built during 11th grade at vocational school as a portfolio-style application.  
 This app was made to practice creating a structured multi-section UI (portfolio, CV, projects) using RecyclerView and modern Android UI components.
